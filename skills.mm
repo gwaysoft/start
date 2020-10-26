@@ -1,10 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1551770828392" ID="ID_691206819" MODIFIED="1583935560794" TEXT="skills">
+<node CREATED="1551770828392" ID="ID_691206819" MODIFIED="1596515454077" TEXT="skills">
 <node CREATED="1551770960822" ID="ID_1189609215" MODIFIED="1587627183889" POSITION="right" TEXT="Operating System">
-<node CREATED="1551771390235" ID="ID_1954920768" MODIFIED="1588039872892" TEXT="linux.mm"/>
-</node>
-<node CREATED="1551771009292" ID="ID_664772960" MODIFIED="1588046045314" POSITION="left" TEXT="linux.mm">
+<node CREATED="1551771390235" ID="ID_1954920768" MODIFIED="1591236730707" TEXT="linux.mm">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -14,172 +12,18 @@
       website: https://www.vmware.com/products/workstation-pro.html
     </p>
   </body>
-</html>
-</richcontent>
-</node>
-<node CREATED="1551775055923" ID="ID_1618162390" MODIFIED="1551775061544" POSITION="left" TEXT="tools">
-<node CREATED="1551775063659" ID="ID_1384244475" MODIFIED="1583927938474" TEXT="freemind">
-<node CREATED="1583927842675" ID="ID_136939698" MODIFIED="1583927941735" TEXT="prerequisite">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      website: freemind.sourceforge.net/wiki/index.php/Main_Page
-    </p>
-    <p>
-      download: freemind.sourceforge.net/wiki/index.php/Download
-    </p>
-    <p>
-      current version: FreeMind-Windows-Installer-1.0.1-max.exe
-    </p>
-    <p>
-      system requirement: Java Runtime Environment 1.6 or later.
-    </p>
-  </body>
 </html></richcontent>
 </node>
-<node CREATED="1583927600610" ID="ID_1434703448" MODIFIED="1583927760643" TEXT="setup">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      regedit
-    </p>
-    <p>
-      HKEY_LOCAL_MACHINE\SOFTWARE\JavaSoft\Java Runtime Environment\1.8
-    </p>
-    <p>
-      javahome=E:\project\java\jdk-8u201
-    </p>
-  </body>
-</html></richcontent>
+<node CREATED="1589165962427" ID="ID_542373984" MODIFIED="1591236711725" TEXT="windows">
+<node CREATED="1591236696294" ID="ID_808952444" MODIFIED="1591236700371" TEXT="cmd">
+<node CREATED="1591236701374" ID="ID_1225545458" MODIFIED="1591236703011" TEXT="cls"/>
+<node CREATED="1591236704181" ID="ID_860491598" MODIFIED="1591236707027" TEXT="findstr"/>
 </node>
 </node>
-<node CREATED="1552883796637" ID="ID_411135537" MODIFIED="1562555407496" TEXT="Visual Studio code">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      https://code.visualstudio.com/
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1552883803322" ID="ID_353621243" MODIFIED="1585195073675" TEXT="Shortcut">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Ctrl + Shift + X -- Extensions
-    </p>
-    <p>
-      Ctrl + Shift + E -- Explorer window
-    </p>
-    <p>
-      F11 -- All Screen
-    </p>
-    <p>
-      Ctrl + P --Quick Open
-    </p>
-    <p>
-      Ctrl + B -- Toggle Sidebar
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      Editing hacks
-    </p>
-    <p>
-      Shift + Alt + Cursor -- Select Column
-    </p>
-    <p>
-      Alt + Up/Down -- Move Current line up/down
-    </p>
-    <p>
-      Shift + Alt + Up/Down -- Copy line up/down
-    </p>
-    <p>
-      Shift&#160;&#160;+ Left/Right/Up/Down -- Select
-    </p>
-    <p>
-      Ctrl + Up/Down -- Move up/down
-    </p>
-    <p>
-      Ctrl + H -- Replace $\n (find \n)
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      Start Bar
-    </p>
-    <p>
-      Ctrl + Shift + M -- PROBLEMS
-    </p>
-    <p>
-      Ctrl + ` -- TERMINAL
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1583981807374" ID="ID_1013040154" MODIFIED="1583981875200" TEXT="Show All Commands: Ctrl + Shift + P">
-<node CREATED="1583981881597" ID="ID_761932736" MODIFIED="1583982043386" TEXT="Color Theme: High Contrast"/>
 </node>
-<node CREATED="1583982071522" ID="ID_1974436939" MODIFIED="1583982075462" TEXT="File">
-<node CREATED="1583982076689" ID="ID_687817725" MODIFIED="1583982089646" TEXT="Close Window: Ctrl + w"/>
-</node>
-<node CREATED="1583982194084" ID="ID_946154541" MODIFIED="1583982197154" TEXT="Selection"/>
-</node>
-<node CREATED="1552883942833" ID="ID_1403373899" MODIFIED="1562555407522" TEXT="Fix">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Q
-    </p>
-    <p>
-      Chinese mess code
-    </p>
-    <p>
-      A
-    </p>
-    <p>
-      Click [UTF-8] at bottom right
-    </p>
-    <p>
-      Select [Reopen with encoding], select relevant encoding
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1584434434345" ID="ID_1452032690" MODIFIED="1584434532832" TEXT="Extensions">
-<node CREATED="1584434441065" ID="ID_277771903" MODIFIED="1584434451766" TEXT="Live Server"/>
-</node>
-</node>
-<node CREATED="1553246255453" ID="ID_1015784503" MODIFIED="1562555407531" TEXT="postman">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      download: https://www.getpostman.com/downloads/
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
+<node CREATED="1551775055923" ID="ID_1618162390" MODIFIED="1591236911040" POSITION="left" TEXT="tools.mm"/>
 <node CREATED="1551779584418" ID="ID_62586131" MODIFIED="1554963866918" POSITION="right" TEXT="collaboration">
-<node CREATED="1551779826500" FOLDED="true" ID="ID_770893256" MODIFIED="1587627178784" TEXT="git">
+<node CREATED="1551779826500" ID="ID_770893256" MODIFIED="1602735757459" TEXT="devops/git.mm">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -243,159 +87,8 @@
       A: git pull --rebase origin master
     </p>
   </body>
-</html></richcontent>
-<node CREATED="1579234270162" ID="ID_1055318134" MODIFIED="1579234279265" TEXT="git clean">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <div class="line number1 index0 alt2" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      <code class="bash comments" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; float: none !important; line-height: 1.1em !important; text-align: left !important; vertical-align: baseline !important; font-weight: normal; font-style: normal !important; font-size: 13px !important; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; color: rgb(0, 130, 0) !important"><font face="Monaco, Menlo, Consolas, Courier New, monospace" size="13px !important" color="rgb(0, 130, 0) !important">#&#160;&#21024;&#38500;&#160;untracked&#160;files</font></code>
-    </div>
-    <div class="line number2 index1 alt1" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      <code class="bash plain" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; float: none !important; line-height: 1.1em !important; text-align: left !important; vertical-align: baseline !important; font-weight: normal; font-style: normal !important; font-size: 13px !important; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; color: rgb(0, 0, 0) !important"><font face="Monaco, Menlo, Consolas, Courier New, monospace" size="13px !important" color="rgb(0, 0, 0) !important">git&#160;clean&#160;-f</font></code>
-    </div>
-    <div class="line number3 index2 alt2" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      &#160;
-    </div>
-    <div class="line number4 index3 alt1" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      <code class="bash comments" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; float: none !important; line-height: 1.1em !important; text-align: left !important; vertical-align: baseline !important; font-weight: normal; font-style: normal !important; font-size: 13px !important; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; color: rgb(0, 130, 0) !important"><font face="Monaco, Menlo, Consolas, Courier New, monospace" size="13px !important" color="rgb(0, 130, 0) !important">#&#160;&#36830;&#160;untracked&#160;&#30340;&#30446;&#24405;&#20063;&#19968;&#36215;&#21024;&#25481;</font></code>
-    </div>
-    <div class="line number5 index4 alt2" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      <code class="bash plain" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; float: none !important; line-height: 1.1em !important; text-align: left !important; vertical-align: baseline !important; font-weight: normal; font-style: normal !important; font-size: 13px !important; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; color: rgb(0, 0, 0) !important"><font face="Monaco, Menlo, Consolas, Courier New, monospace" size="13px !important" color="rgb(0, 0, 0) !important">git&#160;clean&#160;-fd</font></code>
-    </div>
-    <div class="line number6 index5 alt1" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      &#160;
-    </div>
-    <div class="line number7 index6 alt2" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      <code class="bash comments" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; float: none !important; line-height: 1.1em !important; text-align: left !important; vertical-align: baseline !important; font-weight: normal; font-style: normal !important; font-size: 13px !important; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; color: rgb(0, 130, 0) !important"><font face="Monaco, Menlo, Consolas, Courier New, monospace" size="13px !important" color="rgb(0, 130, 0) !important">#&#160;&#36830;&#160;gitignore&#160;&#30340;untrack&#160;&#25991;&#20214;/&#30446;&#24405;&#20063;&#19968;&#36215;&#21024;&#25481;&#160;&#65288;&#24910;&#29992;&#65292;&#19968;&#33324;&#36825;&#20010;&#26159;&#29992;&#26469;&#21024;&#25481;&#32534;&#35793;&#20986;&#26469;&#30340;&#160;.o&#20043;&#31867;&#30340;&#25991;&#20214;&#29992;&#30340;&#65289;</font></code>
-    </div>
-    <div class="line number8 index7 alt1" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      <code class="bash plain" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; float: none !important; line-height: 1.1em !important; text-align: left !important; vertical-align: baseline !important; font-weight: normal; font-style: normal !important; font-size: 13px !important; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; color: rgb(0, 0, 0) !important"><font face="Monaco, Menlo, Consolas, Courier New, monospace" size="13px !important" color="rgb(0, 0, 0) !important">git&#160;clean&#160;-xfd</font></code>
-    </div>
-    <div class="line number9 index8 alt2" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      &#160;
-    </div>
-    <div class="line number10 index9 alt1" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      <code class="bash comments" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; float: none !important; line-height: 1.1em !important; text-align: left !important; vertical-align: baseline !important; font-weight: normal; font-style: normal !important; font-size: 13px !important; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; color: rgb(0, 130, 0) !important"><font face="Monaco, Menlo, Consolas, Courier New, monospace" size="13px !important" color="rgb(0, 130, 0) !important">#&#160;&#22312;&#29992;&#19978;&#36848;&#160;git&#160;clean&#160;&#21069;&#65292;&#22681;&#35010;&#24314;&#35758;&#21152;&#19978;&#160;-n&#160;&#21442;&#25968;&#26469;&#20808;&#30475;&#30475;&#20250;&#21024;&#25481;&#21738;&#20123;&#25991;&#20214;&#65292;&#38450;&#27490;&#37325;&#35201;&#25991;&#20214;&#34987;&#35823;&#21024;</font></code>
-    </div>
-    <div class="line number11 index10 alt2" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      <code class="bash plain" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; float: none !important; line-height: 1.1em !important; text-align: left !important; vertical-align: baseline !important; font-weight: normal; font-style: normal !important; font-size: 13px !important; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; color: rgb(0, 0, 0) !important"><font face="Monaco, Menlo, Consolas, Courier New, monospace" size="13px !important" color="rgb(0, 0, 0) !important">git&#160;clean&#160;-nxfd</font></code>
-    </div>
-    <div class="line number12 index11 alt1" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      <code class="bash plain" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; float: none !important; line-height: 1.1em !important; text-align: left !important; vertical-align: baseline !important; font-weight: normal; font-style: normal !important; font-size: 13px !important; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; color: rgb(0, 0, 0) !important"><font face="Monaco, Menlo, Consolas, Courier New, monospace" size="13px !important" color="rgb(0, 0, 0) !important">git&#160;clean&#160;-nf</font></code>
-    </div>
-    <div class="line number13 index12 alt2" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: none !important; background-position: initial !important; background-repeat: repeat; background-attachment: scroll; background-color: rgb(245, 245, 245); float: none !important; line-height: 1.1em !important; text-align: left; vertical-align: baseline !important; font-weight: 400; font-style: normal; font-size: 13px; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-right: 0; padding-bottom: 0; padding-left: 0; color: rgb(51, 51, 51); letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
-      <code class="bash plain" style="font-family: Monaco, Menlo, Consolas, Courier New, monospace; background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; float: none !important; line-height: 1.1em !important; text-align: left !important; vertical-align: baseline !important; font-weight: normal; font-style: normal !important; font-size: 13px !important; margin-top: 0px; margin-bottom: 0px; margin-right: 0; margin-left: 0; padding-top: 0px; padding-bottom: 0px; padding-right: 0; padding-left: 0; color: rgb(0, 0, 0) !important"><font face="Monaco, Menlo, Consolas, Courier New, monospace" size="13px !important" color="rgb(0, 0, 0) !important">git&#160;clean&#160;-nfd</font></code>
-    </div>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1579234314029" ID="ID_321079830" MODIFIED="1583377652708" TEXT="git remote | git push">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      --------push an existing repository from the command line at local folder--------------
-    </p>
-    <p>
-      git remote add origin git@github.com:gwaysoft/ev3.git
-    </p>
-    <p>
-      git push -u origin master
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1584000375912" ID="ID_1555484916" MODIFIED="1584000383474" TEXT="$ git config">
-<node CREATED="1584000385066" ID="ID_1844338847" MODIFIED="1584000510238" TEXT="$ git config --system credential.helper store (~/.git-credentials(default) | --file ~/.my-credentials )">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      # auto push
-    </p>
-    <p>
-      $ cat ~/.git-credentials
-    </p>
-    <p>
-      https://gwaysoft001:111111Say@github.com
-    </p>
-    <p>
-      
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1584000468678" ID="ID_1049121041" MODIFIED="1584000557532" TEXT="$ git config user.name &apos;xxxxx&apos;">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      # configure username
-    </p>
-    <p>
-      $ git config user.name 'xxxxx'
-    </p>
-    <p>
-      # show username
-    </p>
-    <p>
-      $ git config user.name
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1584000560647" ID="ID_463835181" MODIFIED="1584000611696" TEXT="$ git config user.email &apos;xxxx&apos;">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      # the same as $ git config user.name
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1584000613216" ID="ID_833703063" MODIFIED="1584000946466" TEXT="$ git config --config -e">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      # file
-    </p>
-    <p>
-      cat ~/.gitconfig
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1584001135991" ID="ID_54180637" MODIFIED="1584001194311" TEXT="$ git config --system -e">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      # file
-    </p>
-    <p>
-      %GIT-HOME%/etc/gitconfig
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
+</html>
+</richcontent>
 </node>
 <node CREATED="1551779836100" ID="ID_910725282" MODIFIED="1583935572017" TEXT="github">
 <richcontent TYPE="NOTE"><html>
@@ -427,7 +120,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1551774176363" ID="ID_1696620606" MODIFIED="1551777014450" TEXT="Java SE 8">
+<node CREATED="1551774176363" ID="ID_1696620606" MODIFIED="1599217349300" TEXT="Java SE 8">
 <node CREATED="1551774224683" ID="ID_590944319" MODIFIED="1574153945840" TEXT="install by exe">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -502,7 +195,7 @@
 </node>
 <node CREATED="1587625001543" ID="ID_1805245833" MODIFIED="1587627161983" TEXT="python.mm"/>
 </node>
-<node CREATED="1553236621445" ID="ID_755254586" MODIFIED="1584511355858" POSITION="right" TEXT="java">
+<node CREATED="1553236621445" ID="ID_755254586" MODIFIED="1595584684602" POSITION="right" TEXT="java">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -513,7 +206,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1553236624064" FOLDED="true" ID="ID_1449402957" MODIFIED="1587622036323" TEXT="Spring">
+<node CREATED="1553236624064" ID="ID_1449402957" MODIFIED="1599705878971" TEXT="Spring">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -675,7 +368,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1559286118666" ID="ID_869208342" MODIFIED="1582618952703" TEXT="spring-boot-devtools">
+<node CREATED="1559286118666" FOLDED="true" ID="ID_869208342" MODIFIED="1595584684711" TEXT="spring-boot-devtools">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1101,7 +794,7 @@ pom.xml
 </node>
 </node>
 </node>
-<node CREATED="1554951127203" FOLDED="true" ID="ID_386250949" MODIFIED="1574232507961" TEXT="Spring Framework">
+<node CREATED="1554951127203" ID="ID_386250949" MODIFIED="1595584684793" TEXT="Spring Framework">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1126,7 +819,7 @@ pom.xml
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1555055809245" ID="ID_1105476186" MODIFIED="1557734521112" TEXT="Transaction">
+<node CREATED="1555055809245" FOLDED="true" ID="ID_1105476186" MODIFIED="1595584684795" TEXT="Transaction">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1261,7 +954,7 @@ pom.xml
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1555925002936" ID="ID_1698331923" MODIFIED="1555926026934" TEXT="TransactionDefinition">
+<node CREATED="1555925002936" FOLDED="true" ID="ID_1698331923" MODIFIED="1595584684793" TEXT="TransactionDefinition">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1498,8 +1191,8 @@ pom.xml
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1556092400598" ID="ID_387381645" MODIFIED="1556092584644" TEXT="Transaction Management">
-<node CREATED="1556092590919" ID="ID_583678447" MODIFIED="1556095021374" TEXT="Declarative Transaction Management">
+<node CREATED="1556092400598" FOLDED="true" ID="ID_387381645" MODIFIED="1595584684795" TEXT="Transaction Management">
+<node CREATED="1556092590919" FOLDED="true" ID="ID_583678447" MODIFIED="1595584684794" TEXT="Declarative Transaction Management">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1608,7 +1301,7 @@ pom.xml
 </node>
 </node>
 <node CREATED="1557734490619" ID="ID_864965124" MODIFIED="1559196684806" TEXT="Core">
-<node CREATED="1557127197690" ID="ID_1096254824" MODIFIED="1557734504618" TEXT="IoC Container">
+<node CREATED="1557127197690" FOLDED="true" ID="ID_1096254824" MODIFIED="1595584684798" TEXT="IoC Container">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1640,11 +1333,11 @@ pom.xml
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1557736979799" ID="ID_216351843" MODIFIED="1557736985916" TEXT="my IoC">
+<node CREATED="1557736979799" FOLDED="true" ID="ID_216351843" MODIFIED="1595584684796" TEXT="my IoC">
 <node CREATED="1557736999832" ID="ID_1736016738" MODIFIED="1557737004547" TEXT="interface"/>
 <node CREATED="1557737005855" ID="ID_669931106" MODIFIED="1557737032274" TEXT="container"/>
 </node>
-<node CREATED="1557390214707" ID="ID_444387931" MODIFIED="1557390218248" TEXT="features">
+<node CREATED="1557390214707" FOLDED="true" ID="ID_444387931" MODIFIED="1595584684796" TEXT="features">
 <node CREATED="1557201919589" ID="ID_504441380" MODIFIED="1557202135638" TEXT="What is the IoC">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -1810,8 +1503,8 @@ pom.xml
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1557390232501" ID="ID_960356065" MODIFIED="1557800269152" TEXT="usage">
-<node CREATED="1557390246665" ID="ID_1377936210" MODIFIED="1557800281015" TEXT="XML configuration">
+<node CREATED="1557390232501" FOLDED="true" ID="ID_960356065" MODIFIED="1595584684797" TEXT="usage">
+<node CREATED="1557390246665" FOLDED="true" ID="ID_1377936210" MODIFIED="1595584684796" TEXT="XML configuration">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1997,7 +1690,7 @@ pom.xml
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1557390249465" ID="ID_664457119" MODIFIED="1557904424678" TEXT="annotation">
+<node CREATED="1557390249465" FOLDED="true" ID="ID_664457119" MODIFIED="1595584684797" TEXT="annotation">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2131,7 +1824,7 @@ pom.xml
 </node>
 </node>
 </node>
-<node CREATED="1556433804352" ID="ID_200647266" MODIFIED="1557733882810" TEXT="Spring AOP">
+<node CREATED="1556433804352" FOLDED="true" ID="ID_200647266" MODIFIED="1595584684801" TEXT="Spring AOP">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2145,7 +1838,7 @@ pom.xml
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1556439675093" ID="ID_291262858" MODIFIED="1557999868500" TEXT="AspectJ">
+<node CREATED="1556439675093" FOLDED="true" ID="ID_291262858" MODIFIED="1595584684799" TEXT="AspectJ">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2210,7 +1903,7 @@ pom.xml
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1557980879158" ID="ID_1426930018" MODIFIED="1557980883497" TEXT="annotation">
+<node CREATED="1557980879158" FOLDED="true" ID="ID_1426930018" MODIFIED="1595584684799" TEXT="annotation">
 <node CREATED="1556442323652" ID="ID_313652875" MODIFIED="1556442338247" TEXT="@Aspect"/>
 <node CREATED="1556442341850" ID="ID_1030205092" MODIFIED="1557980886515" TEXT="@Pointcut">
 <richcontent TYPE="NOTE"><html>
@@ -2253,7 +1946,7 @@ pom.xml
 </node>
 </node>
 </node>
-<node CREATED="1556531048545" ID="ID_1005421313" MODIFIED="1556531129795" TEXT="principle">
+<node CREATED="1556531048545" FOLDED="true" ID="ID_1005421313" MODIFIED="1595584684800" TEXT="principle">
 <node CREATED="1556531131172" ID="ID_151416468" MODIFIED="1556531180716" TEXT="pattern">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2266,7 +1959,7 @@ pom.xml
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1556531188173" ID="ID_165254900" MODIFIED="1557909540881" TEXT="dynamic">
+<node CREATED="1556531188173" FOLDED="true" ID="ID_165254900" MODIFIED="1595584684800" TEXT="dynamic">
 <node CREATED="1556531193876" ID="ID_1338392050" MODIFIED="1556531340197" TEXT="jdk">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2395,7 +2088,7 @@ pom.xml
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1556598944747" ID="ID_549846102" MODIFIED="1556598951567" TEXT="apply">
+<node CREATED="1556598944747" FOLDED="true" ID="ID_549846102" MODIFIED="1595584684801" TEXT="apply">
 <node CREATED="1556598952890" ID="ID_922120197" MODIFIED="1556613823884" TEXT="@Transactional">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2586,7 +2279,7 @@ pom.xml
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1558331889723" ID="ID_1053487161" MODIFIED="1558333037105" TEXT="Spring MVC">
+<node CREATED="1558331889723" FOLDED="true" ID="ID_1053487161" MODIFIED="1595584684802" TEXT="Spring MVC">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2780,7 +2473,7 @@ pom.xml
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1560485809597" ID="ID_993303078" MODIFIED="1560485886937" TEXT="messy code">
+<node CREATED="1560485809597" FOLDED="true" ID="ID_993303078" MODIFIED="1595584684801" TEXT="messy code">
 <node CREATED="1560485827430" ID="ID_709951931" MODIFIED="1560485853555" TEXT="response">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2975,7 +2668,7 @@ pom.xml
 </node>
 <node CREATED="1559553013894" ID="ID_482343757" MODIFIED="1559553355329" TEXT="mybatis"/>
 </node>
-<node CREATED="1555054148638" FOLDED="true" ID="ID_910700905" MODIFIED="1569404112433" TEXT="Spring Cloud">
+<node CREATED="1555054148638" ID="ID_910700905" MODIFIED="1599705879112" TEXT="Spring Cloud">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3065,7 +2758,7 @@ pom.xml
   </body>
 </html></richcontent>
 <node CREATED="1561107637430" ID="ID_1724981175" MODIFIED="1561350756625" TEXT="Spring Cloud Netflix">
-<node CREATED="1561107669324" ID="ID_1573750623" MODIFIED="1561350800199" TEXT="Service Discovery (Eureka)">
+<node CREATED="1561107669324" FOLDED="true" ID="ID_1573750623" MODIFIED="1595584684814" TEXT="Service Discovery (Eureka)">
 <node CREATED="1561107702236" ID="ID_1644134909" MODIFIED="1561108215198" TEXT="Eureka Server">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -3152,7 +2845,7 @@ pom.xml
 <node CREATED="1557734883159" ID="ID_938651377" MODIFIED="1557734893813" TEXT="Spring Web Flow"/>
 <node CREATED="1557734900279" ID="ID_627403957" MODIFIED="1557734910901" TEXT="Spring Security"/>
 </node>
-<node CREATED="1553242419797" FOLDED="true" ID="ID_1934962445" MODIFIED="1561972805186" TEXT="project management">
+<node CREATED="1553242419797" ID="ID_1934962445" MODIFIED="1595584684823" TEXT="project management">
 <node CREATED="1553242432550" ID="ID_382062370" MODIFIED="1558511107206" TEXT="Maven">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -3636,7 +3329,7 @@ pom.xml
 </node>
 </node>
 </node>
-<node CREATED="1553245155456" FOLDED="true" ID="ID_266897878" MODIFIED="1584511358241" TEXT="java SE">
+<node CREATED="1553245155456" ID="ID_266897878" MODIFIED="1595584684826" TEXT="java SE">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3690,7 +3383,7 @@ pom.xml
 </node>
 </node>
 </node>
-<node CREATED="1554364223097" FOLDED="true" ID="ID_932147726" MODIFIED="1584511361475" TEXT="repository">
+<node CREATED="1554364223097" ID="ID_932147726" MODIFIED="1595584684843" TEXT="repository">
 <node CREATED="1554364233230" ID="ID_1348659729" MODIFIED="1554364411765" TEXT="logback">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4028,7 +3721,7 @@ pom.xml
 <node CREATED="1560925855208" ID="ID_533509382" MODIFIED="1560925864873" TEXT="jbpm"/>
 </node>
 </node>
-<node CREATED="1554967927582" FOLDED="true" ID="ID_1040337483" MODIFIED="1584511366089" TEXT="IDE">
+<node CREATED="1554967927582" ID="ID_1040337483" MODIFIED="1595584684857" TEXT="IDE">
 <node CREATED="1554967937943" ID="ID_1913973629" MODIFIED="1582618624598" TEXT="IDEA">
 <node CREATED="1554967949036" ID="ID_1457863723" MODIFIED="1562555407662" TEXT="shortcut">
 <richcontent TYPE="NOTE"><html>
@@ -4272,7 +3965,7 @@ pom.xml
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1555483933059" ID="ID_1622066198" MODIFIED="1562555407721" TEXT="Edit">
+<node CREATED="1555483933059" ID="ID_1622066198" MODIFIED="1596515756407" TEXT="Edit">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -4295,6 +3988,9 @@ pom.xml
     </p>
     <p>
       Ctrl + y -- delete line
+    </p>
+    <p>
+      Ctrl + d -- copy line
     </p>
     <p>
       Alt + Shift + up/down -- move line
@@ -4770,8 +4466,8 @@ pom.xml
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1559014427843" ID="ID_56563147" MODIFIED="1584507564426" POSITION="right" TEXT="tech">
-<node CREATED="1559014436369" FOLDED="true" ID="ID_150121026" MODIFIED="1564557778115" TEXT="OAuth 2.0">
+<node CREATED="1559014427843" ID="ID_56563147" MODIFIED="1595582066608" POSITION="right" TEXT="tech">
+<node CREATED="1559014436369" ID="ID_150121026" MODIFIED="1595584684860" TEXT="OAuth 2.0">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -4924,7 +4620,7 @@ pom.xml
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1564976244023" FOLDED="true" ID="ID_1349072004" MODIFIED="1587627219121" TEXT="network">
+<node CREATED="1564976244023" ID="ID_1349072004" MODIFIED="1590725289702" TEXT="network">
 <node CREATED="1559801702535" ID="ID_369667712" MODIFIED="1562555408059" TEXT="HTTP">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4976,7 +4672,7 @@ pom.xml
 <node CREATED="1564976266375" ID="ID_1722480150" MODIFIED="1564976268643" TEXT="ngrok"/>
 </node>
 </node>
-<node CREATED="1561011669045" FOLDED="true" ID="ID_1840559842" MODIFIED="1587627214994" TEXT="Microservices">
+<node CREATED="1561011669045" ID="ID_1840559842" MODIFIED="1595584684870" TEXT="Microservices">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5284,7 +4980,7 @@ pom.xml
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1561347494088" FOLDED="true" ID="ID_532413174" MODIFIED="1564976247437" TEXT="Message Broker">
+<node CREATED="1561347494088" ID="ID_532413174" MODIFIED="1595584684877" TEXT="Message Broker">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5617,8 +5313,8 @@ pom.xml
 </node>
 <node CREATED="1561347540993" ID="ID_108234001" MODIFIED="1561365694139" TEXT="Kafka"/>
 </node>
-<node CREATED="1561969817758" FOLDED="true" ID="ID_627938863" MODIFIED="1564557783513" TEXT="dependency injection">
-<node CREATED="1561969833571" FOLDED="true" ID="ID_936147457" MODIFIED="1564557781375" TEXT="google guice">
+<node CREATED="1561969817758" ID="ID_627938863" MODIFIED="1595584684879" TEXT="dependency injection">
+<node CREATED="1561969833571" ID="ID_936147457" MODIFIED="1595584684896" TEXT="google guice">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5967,7 +5663,7 @@ configure { bind(My).to(MyImpl); }</pre>
 </node>
 </node>
 <node CREATED="1562295784129" ID="ID_438054348" MODIFIED="1562297470553" TEXT="module">
-<node CREATED="1562297448606" ID="ID_1954577180" MODIFIED="1562297459465" TEXT="relationship">
+<node CREATED="1562297448606" FOLDED="true" ID="ID_1954577180" MODIFIED="1595584684897" TEXT="relationship">
 <node CREATED="1562296014012" ID="ID_256960292" MODIFIED="1562555408659" TEXT="parallel">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -6142,10 +5838,9 @@ configure { bind(My).to(MyImpl); }</pre>
       AWS China from 2013
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1561351414434" FOLDED="true" ID="ID_1933963380" MODIFIED="1565318596659" TEXT="Container Orchestration">
+<node CREATED="1561351414434" ID="ID_1933963380" MODIFIED="1595584684916" TEXT="Container Orchestration">
 <node CREATED="1562567573433" ID="ID_1086079662" MODIFIED="1562569125635" TEXT="application deployment history">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -6292,7 +5987,7 @@ configure { bind(My).to(MyImpl); }</pre>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1562571196993" ID="ID_171818616" MODIFIED="1562575584174" TEXT="concepts">
+<node CREATED="1562571196993" FOLDED="true" ID="ID_171818616" MODIFIED="1595584684916" TEXT="concepts">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6392,7 +6087,7 @@ configure { bind(My).to(MyImpl); }</pre>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1562575464480" ID="ID_928431815" MODIFIED="1564972617968" TEXT="kubernetes architecture">
+<node CREATED="1562575464480" FOLDED="true" ID="ID_928431815" MODIFIED="1595584684917" TEXT="kubernetes architecture">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6418,7 +6113,7 @@ configure { bind(My).to(MyImpl); }</pre>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1562576260088" ID="ID_1311478561" MODIFIED="1562576419573" TEXT="master">
+<node CREATED="1562576260088" FOLDED="true" ID="ID_1311478561" MODIFIED="1595584684916" TEXT="master">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6487,7 +6182,7 @@ configure { bind(My).to(MyImpl); }</pre>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1562576751304" ID="ID_1034119988" MODIFIED="1564972172688" TEXT="node">
+<node CREATED="1562576751304" FOLDED="true" ID="ID_1034119988" MODIFIED="1595584684917" TEXT="node">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6623,7 +6318,7 @@ configure { bind(My).to(MyImpl); }</pre>
 <node CREATED="1561351590451" ID="ID_909102625" MODIFIED="1561351604191" TEXT="Apache Mesos"/>
 <node CREATED="1561351666322" ID="ID_1039970426" MODIFIED="1561351696607" TEXT="Amazon Elastic Container Service (ECS)"/>
 </node>
-<node CREATED="1565318802555" FOLDED="true" ID="ID_359112863" MODIFIED="1568014644852" TEXT="private cloud">
+<node CREATED="1565318802555" ID="ID_359112863" MODIFIED="1595584684937" TEXT="private cloud">
 <node CREATED="1565318855396" ID="ID_97260758" MODIFIED="1565331682222" TEXT="OpenStack">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -6647,7 +6342,7 @@ configure { bind(My).to(MyImpl); }</pre>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1565331547104" ID="ID_1506363572" MODIFIED="1565580479689" STYLE="fork" TEXT="architecture">
+<node CREATED="1565331547104" FOLDED="true" ID="ID_1506363572" MODIFIED="1595584684938" STYLE="fork" TEXT="architecture">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6764,7 +6459,7 @@ configure { bind(My).to(MyImpl); }</pre>
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1565582631395" ID="ID_1269611610" MODIFIED="1565582638375" TEXT="catalog">
+<node CREATED="1565582631395" FOLDED="true" ID="ID_1269611610" MODIFIED="1595584684938" TEXT="catalog">
 <node CREATED="1565582358181" ID="ID_1388876121" MODIFIED="1566464316394" TEXT="Full virtualization / Software-based virtualization">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -6825,7 +6520,7 @@ configure { bind(My).to(MyImpl); }</pre>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1566462272203" ID="ID_1198287672" MODIFIED="1566467302808" TEXT="x86 cpu">
+<node CREATED="1566462272203" FOLDED="true" ID="ID_1198287672" MODIFIED="1595584684938" TEXT="x86 cpu">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6897,7 +6592,7 @@ configure { bind(My).to(MyImpl); }</pre>
 </node>
 </node>
 </node>
-<node CREATED="1564389751365" FOLDED="true" ID="ID_1223734200" MODIFIED="1579919949602" TEXT="Big Data">
+<node CREATED="1564389751365" ID="ID_1223734200" MODIFIED="1595582121727" TEXT="Big Data">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -7054,7 +6749,7 @@ configure { bind(My).to(MyImpl); }</pre>
 </node>
 </node>
 <node CREATED="1565075846324" ID="ID_759479613" MODIFIED="1565075873364" TEXT="NoSQL">
-<node CREATED="1557050221982" ID="ID_1515019759" MODIFIED="1565075841224" TEXT="mongodb">
+<node CREATED="1557050221982" ID="ID_1515019759" MODIFIED="1600069581107" TEXT="mongodb">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -7200,12 +6895,20 @@ configure { bind(My).to(MyImpl); }</pre>
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1595582125469" ID="ID_87589284" MODIFIED="1595582135504" TEXT="sqlite3">
+<node CREATED="1595582135506" ID="ID_191108424" MODIFIED="1595582137285" TEXT="https://www.runoob.com/sqlite/sqlite-create-database.html"/>
+<node CREATED="1595584137089" FOLDED="true" ID="ID_1270215295" MODIFIED="1595584684939" TEXT="install">
+<node CREATED="1595584140740" ID="ID_159467885" MODIFIED="1595584142047" TEXT="https://www.sqlite.org/download.html"/>
+<node CREATED="1595584143488" ID="ID_507427101" MODIFIED="1595584208401" TEXT="extract sqlite-tools-win32-*.zip and sqlite-dll-win32-*.zip into C:\sqlite3"/>
+<node CREATED="1595584211780" ID="ID_974189039" MODIFIED="1595584218071" TEXT="set PATH"/>
+</node>
+</node>
 </node>
 <node CREATED="1564975436846" ID="ID_990734313" MODIFIED="1564975439030" TEXT="tools">
 <node CREATED="1564975440114" ID="ID_1832704200" MODIFIED="1564975447399" TEXT="GraphQL"/>
 </node>
 </node>
-<node CREATED="1563960155384" FOLDED="true" ID="ID_757443178" MODIFIED="1584507567387" TEXT="other">
+<node CREATED="1563960155384" ID="ID_757443178" MODIFIED="1591240389407" TEXT="other">
 <node CREATED="1563959128594" ID="ID_1128198440" MODIFIED="1564370123619" TEXT="DevOps">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -7635,8 +7338,7 @@ configure { bind(My).to(MyImpl); }</pre>
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -7654,7 +7356,7 @@ configure { bind(My).to(MyImpl); }</pre>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1563955926720" FOLDED="true" ID="ID_1513707389" MODIFIED="1574153789884" POSITION="right" TEXT="company">
+<node CREATED="1563955926720" ID="ID_1513707389" MODIFIED="1595584684969" POSITION="right" TEXT="company">
 <node CREATED="1563955938928" ID="ID_1971597608" MODIFIED="1565318608489" TEXT="Tableau">
 <richcontent TYPE="NOTE"><html>
   <head>
